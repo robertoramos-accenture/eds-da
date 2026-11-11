@@ -1,4 +1,4 @@
-EDS Document
+# EDS - Experience Workspace
 This project implements EDS project using Document Authoring.
 
 ## Environments
