@@ -1,5 +1,5 @@
 # EDS - Experience Workspace
-This project implements EDS project using Document Authoring.
+This project implements EDS project using Experience Workspace (Document Authoring).
 
 ## Environments
 - Preview: https://main--eds-da--robertoramos-accenture.aem.page/
